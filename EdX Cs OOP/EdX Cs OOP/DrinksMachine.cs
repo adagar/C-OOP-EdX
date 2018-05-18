@@ -24,8 +24,8 @@ namespace EdX_Cs_OOP
             set { _model = value; }
         }
 
-        private string _location;
-        public string Location
+        private string _location; //this is the variable
+        public string Location //this is the property
         {
             get { return _location; }
             set { _location = value; }
@@ -43,8 +43,9 @@ namespace EdX_Cs_OOP
         {
             this.Age = age;
         }
-        public DrinksMachine(string make, string model)
+        public DrinksMachine(string loc, string make, string model)
         {
+            this.Location = loc;
             this.Make = make;
             this.Model = model;
         }

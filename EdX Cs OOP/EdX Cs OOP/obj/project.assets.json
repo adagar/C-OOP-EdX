@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\EdX Cs OOP\\EdX Cs OOP\\EdX Cs OOP.csproj",
+      "projectUniqueName": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\EdX Cs OOP\\EdX Cs OOP\\EdX Cs OOP.csproj",
       "projectName": "EdX Cs OOP",
-      "projectPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\EdX Cs OOP\\EdX Cs OOP\\EdX Cs OOP.csproj",
+      "projectPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\EdX Cs OOP\\EdX Cs OOP\\EdX Cs OOP.csproj",
       "packagesPath": "C:\\Users\\A Nick Garza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\EdX Cs OOP\\EdX Cs OOP\\obj\\",
+      "outputPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\EdX Cs OOP\\EdX Cs OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
