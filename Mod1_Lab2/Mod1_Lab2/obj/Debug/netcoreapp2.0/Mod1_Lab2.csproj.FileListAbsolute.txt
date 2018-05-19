@@ -1,0 +1,11 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\bin\Debug\netcoreapp2.0\Mod1_Lab2.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\bin\Debug\netcoreapp2.0\Mod1_Lab2.runtimeconfig.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\bin\Debug\netcoreapp2.0\Mod1_Lab2.runtimeconfig.dev.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\bin\Debug\netcoreapp2.0\Mod1_Lab2.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\bin\Debug\netcoreapp2.0\Mod1_Lab2.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.csprojAssemblyReference.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.AssemblyInfo.cs
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\Mod1_Lab2\Mod1_Lab2\obj\Debug\netcoreapp2.0\Mod1_Lab2.pdb
