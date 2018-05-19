@@ -8,11 +8,16 @@ namespace EdX_Cs_OOP
         {
             Console.WriteLine("Hello World!");
 
-            DrinksMachine dm = new DrinksMachine("Folgers", "Caffo Blasto");
-            dm.Location = "Kitchen";
-            dm.MakeCappuccino();
+            //DrinksMachine dm = new DrinksMachine("Folgers", "Caffo Blasto");
+            //dm.Location = "Kitchen";
+            //dm.MakeCappuccino();
 
-            Console.WriteLine(dm.Location);
+            //Console.WriteLine(dm.Location);
+
+            double weightInKilos = 80;
+            double weightInPounds = Conversions.KilosToPounds(weightInKilos);
+
+            Console.WriteLine(weightInPounds);
 
         }
     }

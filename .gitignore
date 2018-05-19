@@ -1,0 +1,14 @@
+
+*.ide-wal
+EdX Cs OOP/.vs/EdX Cs OOP/DesignTimeBuild/.dtbcache
+EdX Cs OOP/.vs/EdX Cs OOP/v15/.suo
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+*.cache
+Mod1_Lab1/.vs/Mod1_Lab1/DesignTimeBuild/.dtbcache
+Mod1_Lab1/.vs/Mod1_Lab1/v15/.suo
+*.lock
+EdX Cs OOP/.vs/EdX Cs OOP/v15/.suo
