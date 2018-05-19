@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\Mod1_Lab1\\Mod1_Lab1\\Mod1_Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\Mod1_Lab1\\Mod1_Lab1\\Mod1_Lab1.csproj",
       "projectName": "Mod1_Lab1",
-      "projectPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\Mod1_Lab1\\Mod1_Lab1\\Mod1_Lab1.csproj",
+      "projectPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\Mod1_Lab1\\Mod1_Lab1\\Mod1_Lab1.csproj",
       "packagesPath": "C:\\Users\\A Nick Garza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\Mod1_Lab1\\Mod1_Lab1\\obj\\",
+      "outputPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\ed_cs_oop\\C-OOP-EdX\\Mod1_Lab1\\Mod1_Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
