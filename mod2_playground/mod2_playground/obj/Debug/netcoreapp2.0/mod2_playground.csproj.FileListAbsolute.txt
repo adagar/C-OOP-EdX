@@ -1,0 +1,11 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\bin\Debug\netcoreapp2.0\mod2_playground.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\bin\Debug\netcoreapp2.0\mod2_playground.runtimeconfig.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\bin\Debug\netcoreapp2.0\mod2_playground.runtimeconfig.dev.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\bin\Debug\netcoreapp2.0\mod2_playground.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\bin\Debug\netcoreapp2.0\mod2_playground.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.csprojAssemblyReference.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.AssemblyInfo.cs
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\ed_cs_oop\C-OOP-EdX\mod2_playground\mod2_playground\obj\Debug\netcoreapp2.0\mod2_playground.pdb
